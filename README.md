@@ -28,7 +28,7 @@ If you have infinite scroll, you may want to append items to the mosaic.
 vanilla.mosaic.append( item );
 ```
 
-## Update layout
+### Update layout
 
 To update the layout once the page is fully loaded or when items are added, execute this function :
 ```js
